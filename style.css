@@ -20,15 +20,15 @@
 }
 .main {
   height: 400px;
-  width: 700px;
+  width: 725px;
   background-color: red;
   display: inline-block;
   vertical-align: top;
   margin-top: 20px;
 }
 .sub-content {
-  height: 190px;
-  width: 200px;
+  height: 200px;
+  width: 210px;
   background-color: yellow;
   display: inline-block;
   margin-left: 15px;
@@ -36,8 +36,8 @@
 }
 #advertisement {
   height: 120px;
-  width: 650px;
+  width: 670px;
   background-color: purple;
   margin-top: 25px;
-  margin-left: 10px;
+  margin-left: 15px;
 }
